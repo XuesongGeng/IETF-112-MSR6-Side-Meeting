@@ -1,28 +1,32 @@
 IETF 112 MSR6 Side Meeting Agenda
 
-0. Chair Welcome: 5 mins;
-Mike McBride/Weiqiang Cheng
-
 1. MSR6 Overview/Requirements: 5 mins;
 Weiqiang Cheng
 
-2. MSR6 Best Effort: scenario and potential solutions: 15 mins;
-Yisong Liu/Aijun Wang
+2. MSR6 Best Effort: 15 mins
 
-3. Service Provider Multicast TE Use Cases: 15 mins
-Gyan Mishra
+2.1 scenario: 10 mins
+Yisong Liu
 
-4. MSR6 TE Solutions: 10 mins;
-Huaimo/Xuesong 10min
+2.2 potential solutions: 5mins
+Aijun Wang
 
-5. MSR6 for China Unicom: 10 mins
-Xueru Zhang
+3. MSR6 Traffic Engineering: 25 mins
 
-6. MSR6 in SD-WAN：10 mins
+3.1 Service Provider Multicast TE Use Cases: 15 mins
+Gyan Mishra 
+
+3.2 MSR6 TE Solutions: 10 mins
+Huaimo
+
+4. MSR6 for China Unicom: 10 mins
+Shuai Zhang
+
+5. MSR6 in SD-WAN：10 mins
 Feng Yang
 
-7. Open Discussion：20 mins
+6. Open Discussion：20 mins
 All
 
-8. Chair Summary
+7. Chair Summary
 Mike McBride/Weiqiang Cheng
